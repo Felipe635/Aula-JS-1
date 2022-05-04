@@ -1,1 +1,1 @@
-# Aula-JavaScript-1
+# Aula-JS-1
